@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mosh-hakhof-men-boadak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Mosh Hakhof Men Boadak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
